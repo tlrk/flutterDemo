@@ -5,8 +5,9 @@
 import 'package:flutter/material.dart';
 import 'package:english_words/english_words.dart';
 import 'layout.dart';
+import 'animation.dart';
 
-void main() => runApp(LayoutApp());
+void main() => runApp(AnimationApp());
 
 class MyApp extends StatelessWidget {
   @override
