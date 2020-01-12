@@ -4,10 +4,11 @@
 
 import 'package:flutter/material.dart';
 import 'package:english_words/english_words.dart';
+import 'package:my_flutter/shopping/shopping.dart';
 import 'layout.dart';
 import 'animation.dart';
 
-void main() => runApp(AnimationApp());
+void main() => runApp(ShoppingApp());
 
 class MyApp extends StatelessWidget {
   @override
